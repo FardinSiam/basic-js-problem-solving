@@ -1,3 +1,7 @@
+// https://github.com/FardinSiam/basic-js-problem-solving
+
+
+
                     // kilometer to meter (Problem-1)
 
 function kilometerToMeter(km){
@@ -27,7 +31,6 @@ function budgetCalculator(watch,phone,laptop){
     }
     return totalBudget;
 }
-
 
                         // hotel cost (Problem -3)
 
